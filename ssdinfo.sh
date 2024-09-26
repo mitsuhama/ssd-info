@@ -12,7 +12,7 @@ fi
 # Variables                           #
 #######################################
 
-SSD_DEVICE="/dev/sda"
+SSD_DEVICE="/dev/sdd"
 
 ON_TIME_TAG="Power_On_Hours"
 WEAR_COUNT_TAG="Wear_Leveling_Count"
